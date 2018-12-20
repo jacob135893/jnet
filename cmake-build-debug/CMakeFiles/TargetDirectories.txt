@@ -1,0 +1,3 @@
+C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/jnet.dir
+C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
