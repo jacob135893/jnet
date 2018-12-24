@@ -122,6 +122,60 @@ jnet/fast:
 	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/build
 .PHONY : jnet/fast
 
+jnetfileio.obj: jnetfileio.c.obj
+
+.PHONY : jnetfileio.obj
+
+# target to build an object file
+jnetfileio.c.obj:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetfileio.c.obj
+.PHONY : jnetfileio.c.obj
+
+jnetfileio.i: jnetfileio.c.i
+
+.PHONY : jnetfileio.i
+
+# target to preprocess a source file
+jnetfileio.c.i:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetfileio.c.i
+.PHONY : jnetfileio.c.i
+
+jnetfileio.s: jnetfileio.c.s
+
+.PHONY : jnetfileio.s
+
+# target to generate assembly for a file
+jnetfileio.c.s:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetfileio.c.s
+.PHONY : jnetfileio.c.s
+
+jnetstructs.obj: jnetstructs.c.obj
+
+.PHONY : jnetstructs.obj
+
+# target to build an object file
+jnetstructs.c.obj:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetstructs.c.obj
+.PHONY : jnetstructs.c.obj
+
+jnetstructs.i: jnetstructs.c.i
+
+.PHONY : jnetstructs.i
+
+# target to preprocess a source file
+jnetstructs.c.i:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetstructs.c.i
+.PHONY : jnetstructs.c.i
+
+jnetstructs.s: jnetstructs.c.s
+
+.PHONY : jnetstructs.s
+
+# target to generate assembly for a file
+jnetstructs.c.s:
+	$(MAKE) -f CMakeFiles\jnet.dir\build.make CMakeFiles/jnet.dir/jnetstructs.c.s
+.PHONY : jnetstructs.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... edit_cache
 	@echo ... jnet
 	@echo ... rebuild_cache
+	@echo ... jnetfileio.obj
+	@echo ... jnetfileio.i
+	@echo ... jnetfileio.s
+	@echo ... jnetstructs.obj
+	@echo ... jnetstructs.i
+	@echo ... jnetstructs.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

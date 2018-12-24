@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/jacob/CLionProjects/jnet/jnetfileio.c" "C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/jnet.dir/jnetfileio.c.obj"
+  "C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/jnetstructs.c" "C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/jnet.dir/jnetstructs.c.obj"
   "C:/Users/jacob/CLionProjects/jnet/main.c" "C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/CMakeFiles/jnet.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

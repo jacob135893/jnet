@@ -76,6 +76,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/jnetstructs.c">
+			<Option target="jnet"/>
+		</Unit>
+		<Unit filename="C:/Users/jacob/CLionProjects/jnet/cmake-build-debug/jnetstructs.h">
+			<Option target="jnet"/>
+		</Unit>
+		<Unit filename="C:/Users/jacob/CLionProjects/jnet/jnetfileio.c">
+			<Option target="jnet"/>
+		</Unit>
+		<Unit filename="C:/Users/jacob/CLionProjects/jnet/jnetfileio.h">
+			<Option target="jnet"/>
+		</Unit>
 		<Unit filename="C:/Users/jacob/CLionProjects/jnet/main.c">
 			<Option target="jnet"/>
 		</Unit>

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/jnet.dir/main.c.obj"
+  "CMakeFiles/jnet.dir/jnetfileio.c.obj"
+  "CMakeFiles/jnet.dir/jnetstructs.c.obj"
   "jnet.pdb"
   "jnet.exe"
   "jnet.exe.manifest"
